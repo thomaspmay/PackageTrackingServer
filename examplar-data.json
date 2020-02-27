@@ -1,0 +1,58 @@
+{
+"parcelID4t324652536" : {
+    "settings" : {
+        "senderID" : "1672",
+        "destination" : [45.45435342,-1.5534565],
+        "thresholds" : {
+            "acceleration" : 200,
+            "minTemp" : 5,
+            "maxTemp" : 100,
+            "avgTemp" : 20,
+            "maxHumidity" : 200,
+            "minHumidity" : 200,
+            "avgHumidity" : 200,
+            "light" : 0.4,
+            "orientation" : 0.5
+        }
+    },
+    "flags" : {
+            "acceleration" : false,
+            "minTemp" : false,
+            "maxTemp" : false,
+            "maxHumidity" : false,
+            "minHumidity" : false,
+            "light" : true,
+            "orientation" : true
+        },
+    "timesteps" : [ 
+        {
+            "timestamp" : "20-02-20-11-32-45-001",
+            /*year-month-day-hour-minute-second-3 digits for clashes*/
+            "acceleration" : 200,
+            "minTemp" : 5,
+            "maxTemp" : 100,
+            "avgTemp" : 20,
+            "maxHumidity" : 200,
+            "minHumidity" : 200,
+            "avgHumidity" : 200,
+            "light" : 0.4,
+            "orientation": 0,
+            "location" : [51.45435342,-2.5534565]
+        },{
+            "timestamp" : "20-02-20-11-32-45-002",
+            "acceleration" : 200,
+            "minTemp" : 5,
+            "maxTemp" : 100,
+            "avgTemp" : 20,
+            "maxHumidity" : 200,
+            "minHumidity" : 200,
+            "avgHumidity" : 200,
+            "light" : 0.4,
+            "orientation": 0,
+            "location" : [51.45435341,-2.5534564]
+            }
+        ]
+    }
+}       
+    
+  
